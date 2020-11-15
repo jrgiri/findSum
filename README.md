@@ -1,0 +1,1 @@
+# find sum of all the elements of an array.
